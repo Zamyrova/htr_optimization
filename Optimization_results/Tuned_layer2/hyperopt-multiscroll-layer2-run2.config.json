@@ -1,0 +1,1 @@
+{"exp": "hyperopt-multiscroll", "hp_max_evals": 100, "hp_method": "random", "seed": 42, "instances_per_trial": 5, "hp_space": {"N": ["choice", 100], "sr": ["choice", 0.9292550193185131], "lr": ["choice", 0.7673347950256527], "iss": ["loguniform", 0.1, 10], "ridge": ["loguniform", 1e-08, 1], "seed": ["choice", 1234]}}

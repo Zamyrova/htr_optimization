@@ -1,0 +1,1 @@
+{"train_data_size": 882, "test_data_size": 378, "training_error": 0.6244040261345577, "testing_error": 0.6341942479291834, "best_params": {"sr": 0.9292550193185131, "lr": 0.7673347950256527, "input_scaling": 0.8596014347011425, "ridge": 0.1}}
